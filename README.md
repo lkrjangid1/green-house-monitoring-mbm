@@ -12,3 +12,7 @@ https://github.com/jatin-web/greenhouse-monitoring
 ## Arduino Code:
 
 https://github.com/lkrjangid1/green-house-monitoring-mbm
+
+## Report:
+
+https://docs.google.com/document/d/17N0snPxfcz9Z75Yx-na0LfVPv5ap2OOayehAhktldBg/
